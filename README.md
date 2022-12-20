@@ -1,4 +1,4 @@
-###CLI-quiz-app-Do-you-Know-Me
+#CLI-quiz-app-Do-you-Know-Me
 ##Tech Stack:
 This is my first CLI App made in Repl.it.IDE.It's built with the help of JavaScript.
 ##About Project:
