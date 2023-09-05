@@ -1,6 +1,6 @@
 # CLI-quiz-app-Do-you-Know-Me
 ## Tech Stack:
-This is my first CLI App made in Repl.it.IDE.It's built with the help of JavaScript.
+This is my first CLI App made in Repl.it.IDE.It's built with the help of NodeJS.
 ## About Project:
 This project test the knowledge of my friend about how much they really know me.For each correct answer the counter will update it's value by 1 and for wrong answer it will decrease it's value by 1.You can give it a shot and play around.Please do send me the screenshot if you have beaten up the score.
 ## CLI App Look:
